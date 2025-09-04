@@ -59,10 +59,10 @@ The platform allows property listing, user management, and displaying detailed i
   - Exibição de imóveis na página inicial | Display properties on homepage
   - Página de detalhes do imóvel | Property detail page
   - Upload de imagens para nuvem | Cloud image upload
-  - Chat entre proprietário e interessado | Chat between owner and buyer/renter
-  - Dashboard para gerenciar imóveis | Dashboard for property management
-  - Integração com Google Maps | Google Maps integration
-  - Filtro de imóveis por localização e tipo | Property filtering by location and type
+- Chat entre proprietário e interessado | Chat between owner and buyer/renter
+- Dashboard para gerenciar imóveis | Dashboard for property management
+- Integração com Google Maps | Google Maps integration
+- Filtro de imóveis por localização e tipo | Property filtering by location and type
 
 ---
 

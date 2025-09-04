@@ -56,19 +56,19 @@ The platform allows property listing, user management, and displaying detailed i
   - Fotos | Photos
   - Preço | Price
   - Tipo (aluguel ou venda) | Type (rent or sale)
-- Exibição de imóveis na página inicial | Display properties on homepage
-- Página de detalhes do imóvel | Property detail page
-- Upload de imagens para nuvem | Cloud image upload
+  - Exibição de imóveis na página inicial | Display properties on homepage
+  - Página de detalhes do imóvel | Property detail page
+  - Upload de imagens para nuvem | Cloud image upload
+  - Chat entre proprietário e interessado | Chat between owner and buyer/renter
+  - Dashboard para gerenciar imóveis | Dashboard for property management
+  - Integração com Google Maps | Google Maps integration
+  - Filtro de imóveis por localização e tipo | Property filtering by location and type
 
 ---
 
 ## 📌 Futuras Features (v2.0) | Future Features (v2.0)
 
-- Filtro de imóveis por localização, preço e tipo | Property filtering by location, price, and type
 - Sistema de favoritos | Favorites system
-- Chat entre proprietário e interessado | Chat between owner and buyer/renter
-- Dashboard para gerenciar imóveis | Dashboard for property management
-- Integração com Google Maps | Google Maps integration
 - Avaliação de imóveis | Property reviews
 
 ---
@@ -146,11 +146,25 @@ MAILGUN_API_KEY =
 
 ## 📸 Preview
 
-*(adicione aqui prints da aplicação quando estiver rodando | add screenshots here when the app is running)*
+![imosmart Screenshot](./imosmart.png)
+![imosmart Screenshot](./imosmart2.png)
+![imosmart Screenshot](./imosmart3.png)
+![imosmart Screenshot](./imosmart4.png)
+![imosmart Screenshot](./imosmart5.png)
+![imosmart Screenshot](./imosmart6.png)
 
----
+  <p align="center">
+    <br />
+    <a href="https://imosmart.netlify.app" target="_blank" rel="noreferrer">Imosmart</a>
+  </p>
+
 
 ## 👨‍💻 Autor | Author
 
 - 🇧🇷 Desenvolvido por **Elvis Felix** 🚀  
 - 🇺🇸 Developed by **Elvis Felix** 🚀
+ <a href="https://linkedin.com/in/https://www.linkedin.com/in/elvis-felix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/elvis-felix" height="30" width="40" /></a> <br/>
+
+ ## :memo: Licença 
+
+Distribuído sob a licença **MIT**. Veja `LICENSE` para mais informações.

@@ -146,7 +146,7 @@ MAILGUN_API_KEY =
 
 ## 📸 Preview
 
-![imosmart Screenshot](./imosmart.png)
+![imosmart Screenshot](./imosmart1.png)
 ![imosmart Screenshot](./imosmart2.png)
 ![imosmart Screenshot](./imosmart3.png)
 ![imosmart Screenshot](./imosmart4.png)
@@ -163,6 +163,7 @@ MAILGUN_API_KEY =
 
 - 🇧🇷 Desenvolvido por **Elvis Felix** 🚀  
 - 🇺🇸 Developed by **Elvis Felix** 🚀
+  <br />
  <a href="https://linkedin.com/in/https://www.linkedin.com/in/elvis-felix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/elvis-felix" height="30" width="40" /></a> <br/>
 
  ## :memo: Licença 
